@@ -8,3 +8,4 @@ This project is designed to solve a significant problem for small legislative bo
 
 I am building GDL to automate and streamline these workflows, providing a standardized and efficient tool for legislative assemblies. 
 This project is a key part of my journey to master full-stack development!
+:bug: 🐛
