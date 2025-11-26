@@ -1,10 +1,43 @@
-## Welcome to my profile!
-My name is Guilherme d'Almeida, and I'm a junior full-stack web developer passionate about building effective digital solutions. 
-I'm currently leveraging my problem-solving skills to tackle a real-world challenge.
+### Hi! I'm Guilherme. 👋
 
-## What I'm working on
-I'm currently developing GDL, which stands for Gerador de Documentos Legislativos (Legislative Documents Generator). 
-This project is designed to solve a significant problem for small legislative bodies across Brazil: the uncontrolled, unorganized, and slow process of creating official documents.
+I am a Systems Analysis and Development student, dedicating the last 6 months to a deep dive into the Microsoft ecosystem.
 
-I am building GDL to automate and streamline these workflows, providing a standardized and efficient tool for legislative assemblies. 
-This project is a key part of my journey to master full-stack development!
+Currently, I am participating in the **TIVIT Bootcamp at DIO**, learning how to build real-world solutions combining .NET and Artificial Intelligence.
+
+---
+
+### 🛠️ Tech Stack
+
+**Development**
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+**Database**
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Infra & Tools**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 About me
+
+* 🔭 **Currently:** Focused on the **TIVIT + DIO** Bootcamp.
+* 🌱 **Learning:** API Architecture, Clean Code, and Azure.
+* 💻 **Setup:** Arch Linux user.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula"/>
+</div>
