@@ -32,12 +32,3 @@ Currently, I am participating in the **TIVIT Bootcamp at DIO**, learning how to 
 * 🔭 **Currently:** Focused on the **TIVIT + DIO** Bootcamp.
 * 🌱 **Learning:** API Architecture, Clean Code, and Azure.
 * 💻 **Setup:** Arch Linux user.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula"/>
-</div>
