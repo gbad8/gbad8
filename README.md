@@ -1,6 +1,12 @@
 ### Hi! I'm Guilherme. 👋
 
-I am a Systems Analysis and Development student, dedicating the last 6 months to a deep dive into the Microsoft ecosystem.
+Hello! :-) 
+
+My name is Guilherme, and I am a Backend Developer actively seeking my first professional opportunity.
+
+Over the past year, I have gained hands-on experience by applying C# and .NET to build practical solutions and RESTful APIs within my current work environment.
+
+I have experience with C#, ASP.NET Core, REST/RESTful APIs, Entity Framework, SQL Server, Azure SQL Database, Docker, Git/GitHub, and Linux.
 
 Currently, I am participating in the **TIVIT Bootcamp at DIO**, learning how to build real-world solutions combining .NET and Artificial Intelligence.
 
