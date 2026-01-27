@@ -1,20 +1,15 @@
 ### Hi! I'm Guilherme. 👋
 
-Hello! :-) 
-
-My name is Guilherme, and I am a Backend Developer actively seeking my first professional opportunity.
-
-Over the past year, I have gained hands-on experience by applying C# and .NET to build practical solutions and RESTful APIs within my current work environment.
-
-I have experience with C#, ASP.NET Core, REST/RESTful APIs, Entity Framework, SQL Server, Azure SQL Database, Docker, Git/GitHub, and Linux.
-
-Currently, I am participating in the **TIVIT Bootcamp at DIO**, learning how to build real-world solutions combining .NET and Artificial Intelligence.
+I'm currently working in the legislative sector, where I develop web systems to support parliamentary activities. I have experience with the C# / .NET ecosystem, PHP, and Laravel, building RESTful APIs and integrated systems.
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Development**
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -32,9 +27,3 @@ Currently, I am participating in the **TIVIT Bootcamp at DIO**, learning how to 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 🚀 About me
-
-* 🔭 **Currently:** Focused on the **TIVIT + DIO** Bootcamp.
-* 🌱 **Learning:** API Architecture, Clean Code, and Azure.
-* 💻 **Setup:** Arch Linux user.
