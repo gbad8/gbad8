@@ -1,6 +1,6 @@
 ### Hi! I'm Guilherme. 👋
 
-I'm currently working in the legislative sector, where I develop web systems to support parliamentary activities. I have experience with the C# / .NET ecosystem, PHP, and Laravel, building RESTful APIs and integrated systems.
+I'm currently working in the legislative sector, where I develop web systems to support parliamentary activities. I have experience with the C# / .NET ecosystem, Python, building RESTful APIs and integrated systems. My background in development provides a deep understanding of the software lifecycle, which I now apply to containerization (Docker), Linux environment management, and building efficient deployment pipelines
 
 ---
 
